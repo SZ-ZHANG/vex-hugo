@@ -8,7 +8,7 @@ banner:
     hic at, nostrum nihil!
   image: images/gopherstalking.jpeg
   button:
-    enable: true
+    enable: false
     label: Browse All Products
     link: products
 features:
