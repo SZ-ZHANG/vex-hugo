@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  title: Believe in Technology, Make the change
-  content: Let's rock in the stock market!
+  title: Let's rock in the stock market!
+  content: Those who walk alone have the strongest direction.
   image: images/gopherstalking.jpeg
   button:
     enable: false
