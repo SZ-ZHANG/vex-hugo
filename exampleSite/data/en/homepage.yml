@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  title: Let's rock in the stock market!
-  content: Those who walk alone have the strongest direction.
+  title: Those who walk alone have the strongest direction!
+  content: Let's rock in the stock market!
   image: images/gopherstalking.jpeg
   button:
     enable: false
